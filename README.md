@@ -1,3 +1,3 @@
 # Team 2
-Roy
+Members: Daniel, Sue, Roy
 
